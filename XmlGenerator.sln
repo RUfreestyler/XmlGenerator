@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlGenerator", "XmlGenerator\XmlGenerator.csproj", "{DB3725B9-AB01-462B-865A-D732494DB289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlGeneratorConsole", "XmlGeneratorConsole\XmlGeneratorConsole.csproj", "{08C35118-7B6D-4074-AD38-7B764A2A574C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlGeneratorTests", "XmlGeneratorTests\XmlGeneratorTests.csproj", "{64443285-5B76-4D21-90DA-F105CE48D3DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3725B9-AB01-462B-865A-D732494DB289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3725B9-AB01-462B-865A-D732494DB289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3725B9-AB01-462B-865A-D732494DB289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3725B9-AB01-462B-865A-D732494DB289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C35118-7B6D-4074-AD38-7B764A2A574C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C35118-7B6D-4074-AD38-7B764A2A574C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C35118-7B6D-4074-AD38-7B764A2A574C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C35118-7B6D-4074-AD38-7B764A2A574C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64443285-5B76-4D21-90DA-F105CE48D3DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64443285-5B76-4D21-90DA-F105CE48D3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64443285-5B76-4D21-90DA-F105CE48D3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64443285-5B76-4D21-90DA-F105CE48D3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
